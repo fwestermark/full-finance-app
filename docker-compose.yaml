@@ -37,7 +37,7 @@ services:
     depends_on:
       - php0
     ports:
-      - 172.16.1.139:80:80
+      - 80:80
     volumes:
       - ./fin0/html:/var/www/html:ro
       - ./fin0/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
