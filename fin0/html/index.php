@@ -14,7 +14,7 @@ echo('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www
   <div class="form-toggle"></div>
   <div class="form-panel one">
     <div class="form-header">
-      <h1>Insecure Finance Application</h1>
+      <h1>Insecure SQL Finance Application</h1>
       <h2>Account Login</h2>
     </div>
     <div class="form-content">
