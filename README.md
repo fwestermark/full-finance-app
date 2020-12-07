@@ -4,9 +4,9 @@ Prepares an nginx, mysql and php container app. Note that this deployment is *hi
 ---
 
 # Built With
-* [nginx]https://hub.docker.com/_/nginx
-* [mysql]https://hub.docker.com/_/mysql
-* [php]https://hub.docker.com/_/php
+* https://hub.docker.com/_/nginx
+* https://hub.docker.com/_/mysql
+* https://hub.docker.com/_/php
 
 
 ---
